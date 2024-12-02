@@ -1,3 +1,7 @@
+###########################################################################################################
+# CLOSE THE WINDOW WHICH OPENS FIRST TO SEE THE ACTUAL PLOT
+###########################################################################################################
+
 import pandas as pd
 import matplotlib.pyplot as plot
 import seaborn as sns
